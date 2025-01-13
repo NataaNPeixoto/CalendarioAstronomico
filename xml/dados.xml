@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eventos>
+    <Janeiro>
+        <evento id="janeiro-1">
+            <data>3 de Janeiro</data>
+            <title>Chuva de meteoros Quadrântidas (pico)</title>
+            <details>O pico da chuva de meteoros Quadrântidas, uma das primeiras chuvas do ano, é caracterizado por meteoros rápidos e brilhantes. Pode-se observar até 40 meteoros por hora.</details>            <observation>Melhor observar após a meia-noite, em áreas rurais com pouca poluição luminosa. Olhe para o nordeste, onde a chuva de meteoros será mais ativa.</observation>
+            <visibility>Boa visibilidade em todas as regiões do Brasil, especialmente nas áreas mais escuras e longe das luzes urbanas.</visibility>
+            <photography>Use uma câmera com lente grande angular e uma exposição longa (15-30 segundos) para capturar a trilha dos meteoros. Ajuste a ISO para 800-1600 para obter melhores resultados.</photography>
+            <category id="meteors"></category>
+        </evento>
+        <evento id="janeiro-2">
+            <data>8 de Janeiro</data>
+            <title>Vênus em máxima elongação a leste</title>
+            <details>Vênus atinge sua maior separação angular do Sol, tornando-se visível no horizonte logo após o pôr do sol, brilhando intensamente.</details>
+            <observation>Observe a partir de um local elevado ou com um horizonte ocidental desobstruído logo após o pôr do sol.</observation>
+            <visibility>Excelente visibilidade em todo o Brasil. Em áreas urbanas, pode ser necessário procurar um local com menos poluição luminosa para uma visão clara.</visibility>
+            <photography>Utilize uma lente de 50mm a 100mm com uma abertura ampla (f/2.8 ou maior). Configurações de ISO podem variar de 400 a 800 para capturar o brilho intenso de Vênus.</photography>
+            <category id="planets"></category>
+        </evento>
+        <evento id="janeiro-3">
+            <data>14 de Janeiro</data>
+            <title>Lua Nova</title>
+            <details>Durante a Lua Nova, o lado iluminado da Lua está voltado para o Sol, tornando-a invisível da Terra.</details>
+            <observation>A ausência da Lua proporciona um céu mais escuro, ideal para observação de galáxias e nebulosas. Observe a partir de locais com céu limpo e sem poluição luminosa.</observation>
+            <visibility>Visível em todo o Brasil. A ausência da Lua oferece excelentes condições para observar objetos do céu profundo.</visibility>
+            <photography>Use uma câmera com lente grande angular e faça exposições longas para capturar detalhes do céu profundo. Ajuste a ISO para 1600-3200 para maximizar a sensibilidade.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="janeiro-4">
+            <data>21 de Janeiro</data>
+            <title>Conjunção de Vênus e Saturno</title>
+            <details>Vênus e Saturno estarão muito próximos no céu, criando uma bela vista tanto a olho nu quanto com telescópio.</details>
+            <observation>Um telescópio de médio porte permitirá ver os anéis de Saturno e a fase de Vênus. Observe a partir de um local com horizonte claro após o pôr do sol.</observation>
+            <visibility>Boa visibilidade em todo o Brasil. Em áreas urbanas, um local com horizonte desobstruído é recomendado.</visibility>
+            <photography>Use uma lente de 200mm a 300mm com uma abertura ampla. Configure a ISO para 400-800 para capturar detalhes dos planetas.</photography>
+            <category id="planets"></category>
+        </evento>
+        <evento id="janeiro-5">
+            <data>24 de Janeiro</data>
+            <title>Conjunção de Marte e Netuno</title>
+            <details>Marte, o planeta vermelho, se alinha com Netuno no céu. A conjunção cria uma rara oportunidade de ver esses planetas próximos.</details>
+            <observation>Netuno é difícil de ver a olho nu; um telescópio é altamente recomendado. Observe a partir de um local com céu limpo.</observation>
+            <visibility>Visível em todo o Brasil, com melhores condições em locais com pouca poluição luminosa.</visibility>
+            <photography>Use um telescópio com câmera acoplada e uma lente longa para capturar ambos os planetas. Configure a ISO para 800-1600 e ajuste o tempo de exposição.</photography>
+            <category id="planets"></category>
+        </evento>
+        <evento id="janeiro-6">
+            <data>28 de Janeiro</data>
+            <title>Lua Cheia</title>
+            <details>A Lua estará totalmente iluminada, proporcionando uma visão clara e brilhante, especialmente nas áreas rurais.</details>
+            <observation>Ideal para astrofotógrafos e observadores da Lua. Observe a partir de áreas com céu limpo para melhor visualização dos detalhes lunares.</observation>
+            <visibility>Visível em todo o Brasil. A Lua Cheia é particularmente impressionante em locais com pouca poluição luminosa.</visibility>
+            <photography>Utilize binóculos ou um telescópio para capturar detalhes da superfície lunar. Configure a ISO para 100-400 e use uma lente de 50mm a 100mm com abertura de f/8.</photography>
+            <category id="moon"></category>
+        </evento>
+    </Janeiro>
+
+    <Fevereiro>
+        <evento id="fevereiro-1">
+            <data>3 de Fevereiro</data>
+            <title>Conjunção de Júpiter e Netuno</title>
+            <details>Júpiter e Netuno estarão próximos no céu, uma oportunidade rara para ver esses planetas alinhados.</details>
+            <observation>Use um telescópio para observar as luas de Júpiter e o brilho azul-esverdeado de Netuno. A melhor visualização será em um local com horizonte claro e pouca poluição luminosa.</observation>
+            <visibility>Boa visibilidade em áreas escuras e com pouca poluição luminosa. Em áreas urbanas, é recomendável procurar um local com horizonte desobstruído.</visibility>
+            <photography>Utilize um telescópio com câmera acoplada para capturar a imagem. Configure a ISO entre 800 e 1600 e ajuste o tempo de exposição conforme a intensidade da luz dos planetas.</photography>
+            <category id="planets"></category>
+        </evento>
+        <evento id="fevereiro-2">
+            <data>9 de Fevereiro</data>
+            <title>Mercúrio em máxima elongação a oeste</title>
+            <details>Mercúrio estará na sua maior separação angular do Sol, visível no horizonte oriental antes do amanhecer.</details>
+            <observation>Observe Mercúrio a partir de um local com um horizonte oriental desobstruído, logo antes do nascer do sol. É o melhor momento para visualizá-lo devido à sua maior separação do Sol.</observation>
+            <visibility>Excelente visibilidade em regiões com horizonte limpo. Em áreas urbanas, procure um local com menos poluição luminosa para uma visão clara.</visibility>
+            <photography>Use uma lente de 50mm a 100mm para capturar a imagem de Mercúrio. Configure a ISO entre 400 e 800 e ajuste o tempo de exposição conforme necessário.</photography>
+            <category id="planets"></category>
+        </evento>
+        <evento id="fevereiro-3">
+            <data>13 de Fevereiro</data>
+            <title>Lua Nova</title>
+            <details>Durante a Lua Nova, o lado escuro da Lua fica voltado para a Terra, proporcionando céus escuros ideais para observação de estrelas.</details>
+            <observation>A ausência da Lua oferece um céu mais escuro, ideal para observar estrelas e outros objetos do céu profundo. Observe a partir de locais com céu limpo e sem poluição luminosa.</observation>
+            <visibility>Visível em todo o Brasil. Aproveite a ausência da Lua para observar objetos do céu profundo em locais com pouca poluição luminosa.</visibility>
+            <photography>Use uma câmera com lente grande angular e faça exposições longas para capturar detalhes do céu profundo. Configure a ISO entre 1600 e 3200 para melhores resultados.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="fevereiro-4">
+            <data>14 de Fevereiro</data>
+            <title>Conjunção de Marte e Netuno</title>
+            <details>Marte, o planeta vermelho, estará alinhado com Netuno, criando um belo contraste de cores no céu.</details>
+            <observation>Netuno é difícil de ver a olho nu; um telescópio ou binóculos são recomendados. Observe a partir de um local com céu limpo e horizonte claro.</observation>
+            <visibility>Visível em todo o Brasil, com melhores condições em locais com pouca poluição luminosa.</visibility>
+            <photography>Use um telescópio com câmera acoplada ou binóculos para capturar a imagem. Configure a ISO entre 800 e 1600 e ajuste o tempo de exposição conforme necessário.</photography>
+            <category id="planets"></category>
+        </evento>
+        <evento id="fevereiro-5">
+            <data>27 de Fevereiro</data>
+            <title>Lua Cheia</title>
+            <details>A Lua estará completamente iluminada, proporcionando uma vista espetacular, especialmente em áreas rurais.</details>
+            <observation>Ideal para astrofotógrafos e observadores da Lua. Observe a partir de áreas com céu limpo para melhor visualização dos detalhes lunares.</observation>
+            <visibility>Visível em todo o Brasil. A Lua Cheia é particularmente impressionante em locais com pouca poluição luminosa.</visibility>
+            <photography>Utilize binóculos ou um telescópio para capturar detalhes da superfície lunar. Configure a ISO entre 100 e 400 e use uma lente de 50mm a 100mm com abertura de f/8.</photography>
+            <category id="moon"></category>
+        </evento>
+    </Fevereiro>
+
+    <Março>
+        <evento id="marco-1">
+            <data>12 de Março</data>
+            <title>Lua Nova</title>
+            <details>Durante a Lua Nova, o céu fica mais escuro, ideal para observação astronômica de objetos de céu profundo.</details>
+            <observation>Ideal para observação de galáxias e nebulosas, com um céu mais escuro e sem interferência lunar.</observation>
+            <visibility>Visível em todo o Brasil. As condições são ótimas em locais com céu limpo e pouca poluição luminosa.</visibility>
+            <photography>Use uma câmera com lente grande angular e faça exposições longas para capturar detalhes do céu profundo. Ajuste a ISO para 1600-3200.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="marco-2">
+            <data>13 de Março</data>
+            <title>Vênus em máxima elongação a oeste</title>
+            <details>Vênus estará na sua maior separação do Sol, brilhando intensamente no horizonte oeste após o pôr do sol.</details>
+            <observation>Observe a partir de um ponto elevado ou com horizonte ocidental claro logo após o pôr do sol.</observation>
+            <visibility>Excelente visibilidade em todo o Brasil. Em áreas urbanas, um local com menos poluição luminosa ajudará a obter uma visão clara.</visibility>
+            <photography>Utilize uma lente de 50mm a 100mm com uma abertura ampla (f/2.8 ou maior). Configure a ISO entre 400 e 800.</photography>
+            <category id="planets"></category>
+        </evento>
+        <evento id="marco-3">
+            <data>22-23 de Março</data>
+            <title>Chuva de meteoros Camelopardálidas (atividade moderada)</title>
+            <details>A chuva de meteoros Camelopardálidas oferece uma boa oportunidade para ver meteoros vindos da constelação de Camelopardalis.</details>
+            <observation>Observe em áreas rurais longe da poluição luminosa, especialmente após a meia-noite.</observation>
+            <visibility>Visível em todo o Brasil, com melhores condições em locais escuros e longe das luzes urbanas.</visibility>
+            <photography>Use uma câmera com lente grande angular e configure a ISO entre 800 e 1600 para capturar as trilhas dos meteoros.</photography>
+            <category id="meteors"></category>
+        </evento>
+        <evento id="marco-4">
+            <data>25 de Março</data>
+            <title>Equinócio de Março</title>
+            <details>O equinócio de março marca o início da primavera no hemisfério norte e do outono no hemisfério sul.</details>
+            <observation>Um momento perfeito para observar a mudança das estações e a igual duração do dia e da noite.</observation>
+            <visibility>Visível globalmente, o equinócio é um evento astronômico importante, visível em todas as regiões.</visibility>
+            <photography>Capture imagens do horizonte durante o entardecer e amanhecer para evidenciar a mudança das estações.</photography>
+            <category id="all"></category>
+        </evento>
+        <evento id="marco-5">
+            <data>28 de Março</data>
+            <title>Lua Cheia</title>
+            <details>A Lua estará cheia, criando uma paisagem lunar brilhante e clara, perfeita para observação.</details>
+            <observation>Ideal para observar com binóculos ou telescópio. Observe em áreas com céu limpo para melhores detalhes lunares.</observation>
+            <visibility>Visível em todo o Brasil. A Lua Cheia é particularmente impressionante em locais com pouca poluição luminosa.</visibility>
+            <photography>Utilize binóculos ou um telescópio para capturar detalhes da superfície lunar. Configure a ISO para 100-400 e use uma lente de 50mm a 100mm com abertura de f/8.</photography>
+            <category id="moon"></category>
+        </evento>
+    </Março>
+
+    <Abril>
+        <evento id="abril-1">
+            <data>4 de Abril</data>
+            <title>Conjunção de Marte e Saturno</title>
+            <details>Marte e Saturno estarão muito próximos um do outro no céu, criando uma bela vista tanto a olho nu quanto com telescópio.</details>
+            <observation>Um telescópio permitirá ver os anéis de Saturno e a cor avermelhada de Marte. Observe em um local com horizonte desobstruído após o pôr do sol.</observation>
+            <visibility>Boa visibilidade em todo o Brasil. Em áreas urbanas, um local com horizonte claro e pouco poluído é ideal.</visibility>
+            <photography>Use uma lente de 200mm a 300mm com abertura ampla. Configure a ISO entre 400 e 800 para capturar detalhes dos planetas.</photography>
+            <category id="planets"></category>
+        </evento>
+        <evento id="abril-2">
+            <data>8 de Abril</data>
+            <title>Eclipse Total da Lua</title>
+            <details>Durante um eclipse total, a Lua passa completamente na sombra da Terra, adquirindo uma coloração avermelhada conhecida como "Lua de Sangue".</details>
+            <observation>Este fenômeno pode ser visto a olho nu. Ideal para observação em áreas escuras com pouco poluição luminosa.</observation>
+            <visibility>Visível em todo o Brasil. A Lua de Sangue é particularmente impressionante em locais com pouca poluição luminosa.</visibility>
+            <photography>Use uma lente de 50mm a 100mm com uma abertura ampla (f/2.8 ou maior). Configure a ISO entre 800 e 1600 para capturar a coloração avermelhada.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="abril-3">
+            <data>10 de Abril</data>
+            <title>Lua Nova</title>
+            <details>Com a Lua alinhada entre a Terra e o Sol, ela se torna invisível para observadores da Terra.</details>
+            <observation>Ideal para observação de estrelas e objetos do céu profundo. O céu mais escuro sem a luz lunar é perfeito para astrofotografia.</observation>
+            <visibility>Visível em todo o Brasil. A ausência da Lua proporciona excelentes condições para observar objetos do céu profundo.</visibility>
+            <photography>Utilize uma câmera com lente grande angular e faça exposições longas. Ajuste a ISO para 1600-3200 para maximizar a sensibilidade.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="abril-4">
+            <data>22 de Abril</data>
+            <title>Chuva de meteoros Líridas (pico)</title>
+            <details>As Líridas são conhecidas por meteoros brilhantes e ocasionais bolas de fogo, com uma taxa de 15 a 20 meteoros por hora.</details>
+            <observation>A melhor visualização é após a meia-noite, em locais escuros e longe da poluição luminosa.</observation>
+            <visibility>Visível em todo o Brasil. Melhores condições em áreas rurais com pouca poluição luminosa.</visibility>
+            <photography>Use uma câmera com lente grande angular e configure a ISO entre 800 e 1600 para capturar as trilhas dos meteoros.</photography>
+            <category id="meteors"></category>
+        </evento>
+        <evento id="abril-5">
+            <data>25 de Abril</data>
+            <title>Lua Cheia</title>
+            <details>A Lua estará completamente iluminada e será visível durante toda a noite.</details>
+            <observation>Ótima oportunidade para observar a superfície lunar. Ideal para astrofotografia em áreas com céu limpo.</observation>
+            <visibility>Visível em todo o Brasil. A Lua Cheia é particularmente impressionante em locais com pouca poluição luminosa.</visibility>
+            <photography>Utilize binóculos ou um telescópio para capturar detalhes da superfície lunar. Configure a ISO para 100-400 e use uma lente de 50mm a 100mm com abertura de f/8.</photography>
+            <category id="moon"></category>
+        </evento>
+    </Abril>
+
+    <Maio>
+        <evento id="maio-1">
+            <data>5 de Maio</data>
+            <title>Chuva de meteoros Eta Aquáridas (pico)</title>
+            <details>As Eta Aquáridas, originadas pelo cometa Halley, são conhecidas por meteoros rápidos e brilhantes, com até 30 meteoros por hora no pico.</details>
+            <observation>Melhor observação nas primeiras horas antes do amanhecer. Escolha um local afastado das luzes da cidade para uma visualização mais clara.</observation>
+            <visibility>Visível em todo o Brasil. Ideal para áreas com pouca poluição luminosa e horizonte despejado.</visibility>
+            <photography>Use uma câmera com lente grande angular. Configure a ISO entre 800 e 1600 e faça exposições longas para capturar as trilhas dos meteoros.</photography>
+            <category id="meteors"></category>
+        </evento>
+        <evento id="maio-2">
+            <data>8 de Maio</data>
+            <title>Marte em oposição</title>
+            <details>Marte estará em oposição, o que significa que estará diretamente oposto ao Sol no céu, tornando-o visível a noite toda e mais brilhante do que o habitual.</details>
+            <observation>Marte será visível a noite toda. Um telescópio pequeno pode revelar detalhes da superfície marciana, como calotas polares e algumas características geológicas.</observation>
+            <visibility>Visível em todo o Brasil. A oposição proporciona uma visão clara e brilhante de Marte.</visibility>
+            <photography>Use um telescópio ou uma lente de 300mm para capturar detalhes. Configure a ISO entre 400 e 800 para obter boas imagens da superfície marciana.</photography>
+            <category id="planets"></category>
+        </evento>
+        <evento id="maio-3">
+            <data>9 de Maio</data>
+            <title>Lua Nova</title>
+            <details>A Lua estará alinhada entre a Terra e o Sol, tornando-se invisível.</details>
+            <observation>Ideal para observação de objetos distantes, como galáxias e aglomerados estelares. O céu estará mais escuro sem a luz da Lua.</observation>
+            <visibility>Visível em todo o Brasil. A ausência da Lua proporciona melhores condições para a observação de objetos do céu profundo.</visibility>
+            <photography>Use uma câmera com lente grande angular e configure a ISO entre 1600 e 3200 para capturar mais detalhes do céu profundo.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="maio-4">
+            <data>24 de Maio</data>
+            <title>Lua Cheia</title>
+            <details>A Lua estará totalmente iluminada, proporcionando uma visão clara e brilhante.</details>
+            <observation>Excelente oportunidade para observar a superfície lunar. Use binóculos ou telescópios para ver detalhes das crateras e mares lunares.</observation>
+            <visibility>Visível em todo o Brasil. A Lua Cheia é particularmente impressionante em locais com céu limpo e pouco poluição luminosa.</visibility>
+            <photography>Utilize binóculos ou um telescópio para capturar detalhes da superfície lunar. Configure a ISO entre 100 e 400 e use uma lente de 50mm a 100mm com abertura de f/8.</photography>
+            <category id="moon"></category>
+        </evento>
+    </Maio>
+
+    <Junho>
+        <evento id="junho-1">
+            <data>6 de Junho</data>
+            <title>Lua Nova</title>
+            <details>Com a Lua alinhada entre a Terra e o Sol, sua face iluminada estará voltada para longe da Terra, tornando-a invisível no céu.</details>
+            <observation>Excelente oportunidade para observar estrelas e outros objetos do céu profundo, sem a luz da Lua interferindo.</observation>
+            <visibility>Visível em todo o Brasil. A ausência da Lua facilita a visualização de objetos do céu profundo.</visibility>
+            <photography>Use uma câmera com lente grande angular e configure a ISO entre 1600 e 3200 para capturar mais detalhes do céu noturno.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="junho-2">
+            <data>21 de Junho</data>
+            <title>Solstício de Junho</title>
+            <details>O Solstício de Junho marca o início do verão no hemisfério norte e do inverno no hemisfério sul. É o dia mais longo do ano no norte e o mais curto no sul.</details>
+            <observation>Observe o caminho do Sol ao longo do horizonte. O Solstício é um bom momento para notar as mudanças sazonais e o aumento ou diminuição da duração do dia.</observation>
+            <visibility>O Solstício é um fenômeno astronômico que pode ser observado em qualquer lugar do mundo, dependendo das condições meteorológicas.</visibility>
+            <photography>Captura o horizonte ao amanhecer ou ao entardecer. Use um filtro solar se estiver fotografando o Sol diretamente e configure a ISO entre 100 e 400.</photography>
+            <category id="all"></category>
+        </evento>
+        <evento id="junho-3">
+            <data>27 de Junho</data>
+            <title>Conjunção de Vênus e Júpiter</title>
+            <details>Vênus e Júpiter estarão extremamente próximos no céu, criando uma vista impressionante a olho nu ou com telescópio.</details>
+            <observation>Vênus e Júpiter serão visíveis no céu noturno, próximos um do outro. Um binóculo ou telescópio pequeno pode ajudar a distinguir ambos os planetas.</observation>
+            <visibility>Visível em todo o Brasil. O fenômeno será mais impressionante em locais com céu limpo e horizonte despejado.</visibility>
+            <photography>Use um telescópio ou binóculo para capturar a proximidade dos planetas. Configure a ISO entre 400 e 800 e use uma lente de 200mm para boas imagens.</photography>
+            <category id="planets"></category>
+        </evento>
+    </Junho>
+
+    <Julho>
+        <evento id="julho-1">
+            <data>4 de Julho</data>
+            <title>Apogeu da Terra</title>
+            <details>A Terra estará no ponto mais distante do Sol em sua órbita, a uma distância de cerca de 152 milhões de quilômetros.</details>
+            <observation>Observe a diferença de distância da Terra ao Sol e compare com o perigeu, quando a Terra está mais próxima do Sol.</observation>
+            <visibility>Esse evento não é visível diretamente, mas pode ser um bom momento para discutir conceitos astronômicos.</visibility>
+            <photography>Não aplicável, pois o evento não é visível. Utilize o momento para fotos educativas sobre órbitas e distâncias.</photography>
+            <category id="all"></category>
+        </evento>
+        <evento id="julho-2">
+            <data>9 de Julho</data>
+            <title>Lua Nova</title>
+            <details>Com a Lua entre a Terra e o Sol, a face iluminada da Lua estará voltada para longe da Terra, tornando-a invisível.</details>
+            <observation>Ideal para observação de estrelas e objetos de céu profundo sem a interferência da luz lunar.</observation>
+            <visibility>Visível em todo o Brasil. A ausência da Lua facilita a visualização de objetos celestes.</visibility>
+            <photography>Use uma câmera com alta sensibilidade para capturar estrelas e galáxias. Configure a ISO entre 1600 e 3200.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="julho-3">
+            <data>17 de Julho</data>
+            <title>Chuva de meteoros Delta Aquáridas (início)</title>
+            <details>As Delta Aquáridas têm uma taxa de cerca de 20 meteoros por hora, com meteoros rápidos e consistentes.</details>
+            <observation>A melhor visualização será em locais escuros, após a meia-noite. As Delta Aquáridas são visíveis até agosto.</observation>
+            <visibility>Visível em todo o Brasil. O fenômeno é mais visível em áreas com pouca poluição luminosa.</visibility>
+            <photography>Use uma lente grande angular e configure a ISO entre 800 e 1600 para capturar múltiplos meteoros em uma única imagem.</photography>
+            <category id="meteors"></category>
+        </evento>
+        <evento id="julho-4">
+            <data>23 de Julho</data>
+            <title>Lua Cheia</title>
+            <details>A Lua estará totalmente iluminada, sendo visível durante toda a noite.</details>
+            <observation>Ideal para observar detalhes da superfície lunar a olho nu ou com telescópio.</observation>
+            <visibility>Visível em todo o Brasil. A Lua Cheia é um espetáculo noturno fácil de observar.</visibility>
+            <photography>Use uma lente de 200mm para capturar detalhes da superfície lunar. Configure a ISO entre 100 e 400.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="julho-5">
+            <data>28-29 de Julho</data>
+            <title>Chuva de meteoros Delta Aquáridas (pico)</title>
+            <details>O pico das Delta Aquáridas pode apresentar até 25 meteoros por hora, com uma visibilidade melhor em áreas longe de luzes urbanas.</details>
+            <observation>Melhor visível no hemisfério sul. Procure um local escuro e espere até as primeiras horas da manhã para melhores resultados.</observation>
+            <visibility>Ideal para observadores no hemisfério sul. A taxa é mais alta nessa região.</visibility>
+            <photography>Use um tripé para exposições longas e uma lente grande angular para capturar o máximo de meteoros possível.</photography>
+            <category id="meteors"></category>
+        </evento>
+    </Julho>
+
+    <Agosto>
+        <evento id="agosto-1">
+            <data>8 de Agosto</data>
+            <title>Lua Nova</title>
+            <details>A Lua estará completamente alinhada entre a Terra e o Sol, tornando-se invisível no céu noturno.</details>
+            <observation>Ideal para observar objetos do céu profundo sem a interferência da luz lunar.</observation>
+            <visibility>Visível em todo o Brasil. A ausência da Lua facilita a visualização de estrelas e outros objetos distantes.</visibility>
+            <photography>Utilize uma câmera com alta sensibilidade e configure a ISO entre 1600 e 3200 para capturar estrelas e galáxias.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="agosto-2">
+            <data>12-13 de Agosto</data>
+            <title>Chuva de meteoros Perseidas (pico)</title>
+            <details>As Perseidas são uma das chuvas de meteoros mais populares, com até 60 meteoros por hora no pico.</details>
+            <observation>A melhor visualização é após a meia-noite, em um local escuro e longe da poluição luminosa.</observation>
+            <visibility>Visível em todo o Brasil. O pico é mais intenso e as Perseidas são conhecidas por sua taxa alta e meteoros brilhantes.</visibility>
+            <photography>Use um tripé e uma lente grande angular. Configure a ISO entre 800 e 1600 para capturar múltiplos meteoros em uma única imagem.</photography>
+            <category id="meteors"></category>
+        </evento>
+        <evento id="agosto-3">
+            <data>19 de Agosto</data>
+            <title>Conjunção de Marte e Vênus</title>
+            <details>Marte e Vênus estarão muito próximos no céu, proporcionando uma bela vista a olho nu ou com telescópio.</details>
+            <observation>Ideal para observação a olho nu ou com telescópio pequeno. A proximidade dos planetas pode criar uma bela vista.</observation>
+            <visibility>Visível em todo o Brasil. A melhor observação é logo após o pôr do sol.</visibility>
+            <photography>Use um telescópio pequeno ou binóculos para capturar a proximidade dos planetas. Configure a ISO entre 400 e 800.</photography>
+            <category id="planets"></category>
+        </evento>
+        <evento id="agosto-4">
+            <data>22 de Agosto</data>
+            <title>Lua Cheia</title>
+            <details>A Lua estará completamente iluminada, sendo visível durante toda a noite.</details>
+            <observation>Excelente oportunidade para observar a superfície lunar a olho nu ou com telescópio.</observation>
+            <visibility>Visível em todo o Brasil. A Lua Cheia é um espetáculo noturno fácil de observar.</visibility>
+            <photography>Use uma lente de 200mm para capturar detalhes da superfície lunar. Configure a ISO entre 100 e 400.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="agosto-5">
+            <data>31 de Agosto</data>
+            <title>Mercúrio em máxima elongação a leste</title>
+            <details>Mercúrio estará em sua máxima elongação a leste, tornando-se visível no horizonte logo após o pôr do sol.</details>
+            <observation>Melhor observado com binóculos em um local com uma vista desobstruída do horizonte ocidental.</observation>
+            <visibility>Visível em todo o Brasil logo após o pôr do sol. Mercúrio estará em uma posição favorável para observação.</visibility>
+            <photography>Utilize binóculos ou um telescópio pequeno e ajuste a ISO entre 400 e 800 para capturar Mercúrio no horizonte.</photography>
+            <category id="planets"></category>
+        </evento>
+    </Agosto>
+
+    <Setembro>
+        <evento id="setembro-1">
+            <data>6 de Setembro</data>
+            <title>Lua Nova</title>
+            <details>Com a Lua alinhada entre a Terra e o Sol, sua face iluminada estará voltada para longe da Terra, tornando-a invisível no céu.</details>
+            <observation>Ideal para observação de estrelas e outros objetos do céu profundo.</observation>
+            <visibility>Visível em todo o Brasil. Sem luz lunar, é um ótimo momento para observar o céu profundo.</visibility>
+            <photography>Utilize uma câmera com alta sensibilidade para capturar estrelas e galáxias. Configure a ISO entre 1600 e 3200.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="setembro-2">
+            <data>14 de Setembro</data>
+            <title>Conjunção de Vênus e Marte</title>
+            <details>Vênus e Marte estarão muito próximos um do outro no céu, proporcionando uma bela vista tanto a olho nu quanto com telescópio.</details>
+            <observation>Ideal para observação a olho nu ou com telescópio pequeno. A proximidade dos planetas cria uma vista impressionante.</observation>
+            <visibility>Visível em todo o Brasil. Melhor visualização após o pôr do sol.</visibility>
+            <photography>Use um telescópio pequeno ou binóculos para capturar a proximidade dos planetas. Configure a ISO entre 400 e 800.</photography>
+            <category id="planets"></category>
+        </evento>
+        <evento id="setembro-3">
+            <data>21 de Setembro</data>
+            <title>Equinócio de Setembro</title>
+            <details>O Equinócio de Setembro marca o início do outono no hemisfério norte e da primavera no hemisfério sul, com o dia e a noite tendo durações aproximadamente iguais.</details>
+            <observation>Um excelente momento para observar o caminho do Sol ao longo do horizonte e perceber as mudanças sazonais.</observation>
+            <visibility>Visível em todo o Brasil. O equinócio é um marco importante no calendário astronômico.</visibility>
+            <photography>Capture o horizonte ao amanhecer e ao anoitecer para mostrar a transição das estações.</photography>
+            <category id="all"></category>
+        </evento>
+        <evento id="setembro-4">
+            <data>23 de Setembro</data>
+            <title>Lua Cheia</title>
+            <details>A Lua estará completamente iluminada, proporcionando uma visão clara e brilhante durante toda a noite.</details>
+            <observation>Ótima para observação e astrofotografia, especialmente em áreas rurais.</observation>
+            <visibility>Visível em todo o Brasil. A Lua Cheia é um evento fácil de observar.</visibility>
+            <photography>Use uma lente de 200mm para capturar detalhes da superfície lunar. Configure a ISO entre 100 e 400.</photography>
+            <category id="moon"></category>
+        </evento>
+    </Setembro>
+
+    <Outubro>
+        <evento id="outubro-1">
+            <data>6 de Outubro</data>
+            <title>Lua Nova</title>
+            <details>Com a Lua alinhada entre a Terra e o Sol, sua face iluminada estará voltada para longe da Terra, tornando-a invisível.</details>
+            <observation>Excelente oportunidade para observação de objetos distantes, como galáxias e aglomerados estelares. Escolha um local com céu limpo e longe de luzes urbanas.</observation>
+            <visibility>A Lua Nova é visível em todo o Brasil, mas a observação de objetos distantes será melhor em locais com pouca poluição luminosa.</visibility>
+            <photography>Use uma câmera com lente grande angular e faça exposições longas para capturar detalhes do céu profundo. Ajuste a ISO para 1600-3200 para maximizar a sensibilidade.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="outubro-2">
+            <data>21-22 de Outubro</data>
+            <title>Chuva de meteoros Orionídeas (pico)</title>
+            <details>As Orionídeas, originadas pelo cometa Halley, têm uma taxa de 20 a 25 meteoros por hora e são conhecidas por seus meteoros rápidos e brilhantes.</details>
+            <observation>Melhor visualização após a meia-noite, de preferência em um local escuro e longe da poluição luminosa.</observation>
+            <visibility>Boa visibilidade em todo o Brasil. Em áreas urbanas, encontre um local com pouca poluição luminosa para uma visão clara.</visibility>
+            <photography>Use uma câmera com lente grande angular e uma exposição longa (15-30 segundos) para capturar a trilha dos meteoros. Ajuste a ISO para 800-1600 para obter melhores resultados.</photography>
+            <category id="meteors"></category>
+        </evento>
+        <evento id="outubro-3">
+            <data>22 de Outubro</data>
+            <title>Lua Cheia</title>
+            <details>A Lua estará completamente iluminada, proporcionando uma visão espetacular, especialmente em áreas rurais.</details>
+            <observation>Ideal para fotografar ou observar crateras lunares com binóculos ou telescópios. Observe a partir de áreas com céu limpo para melhor visualização dos detalhes lunares.</observation>
+            <visibility>Visível em todo o Brasil. A Lua Cheia é particularmente impressionante em locais com pouca poluição luminosa.</visibility>
+            <photography>Utilize binóculos ou um telescópio para capturar detalhes da superfície lunar. Configure a ISO para 100-400 e use uma lente de 50mm a 100mm com abertura de f/8.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="outubro-4">
+            <data>25 de Outubro</data>
+            <title>Conjunção de Vênus e Júpiter</title>
+            <details>Vênus e Júpiter estarão muito próximos um do outro no céu, proporcionando uma bela vista tanto a olho nu quanto com telescópio.</details>
+            <observation>Um telescópio pequeno pode revelar as luas de Júpiter e a fase de Vênus. Observe a partir de um local com horizonte claro após o pôr do sol.</observation>
+            <visibility>Boa visibilidade em todo o Brasil. Em áreas urbanas, um local com horizonte desobstruído é recomendado.</visibility>
+            <photography>Use uma lente de 200mm a 300mm com uma abertura ampla. Configure a ISO para 400-800 para capturar detalhes dos planetas.</photography>
+            <category id="planets"></category>
+        </evento>
+    </Outubro>
+
+    <Novembro>
+        <evento id="novembro-1">
+            <data>7 de Novembro</data>
+            <title>Lua Nova</title>
+            <details>A Lua Nova ocorre quando a Lua está posicionada entre a Terra e o Sol, tornando-se invisível a partir da Terra.</details>
+            <observation>Ideal para observação de objetos celestes que são mais visíveis sem a luz da Lua.</observation>
+            <visibility>Boa visibilidade em todas as regiões do Brasil, especialmente em áreas com céu limpo.</visibility>
+            <photography>Use um telescópio ou binóculos para observar detalhes de outros objetos celestes sem a luz da Lua interferindo.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="novembro-2">
+            <data>12 de Novembro</data>
+            <title>Conjunção de Marte e Vênus</title>
+            <details>Marte e Vênus estarão visíveis próximos um do outro no céu. Marte será um pouco mais vermelho, enquanto Vênus será mais brilhante.</details>
+            <observation>Observe a partir de um local com horizonte limpo para melhor visualização da aproximação.</observation>
+            <visibility>Excelente visibilidade em todo o Brasil, especialmente em locais com horizonte desobstruído.</visibility>
+            <photography>Use uma lente de 50mm a 100mm com uma abertura ampla para capturar a aproximação dos planetas.</photography>
+            <category id="planets"></category>
+        </evento>
+        <evento id="novembro-3">
+            <data>17 de Novembro</data>
+            <title>Chuva de meteoros Leônidas (pico)</title>
+            <details>As Leônidas têm uma taxa de até 15 meteoros por hora. A chuva é conhecida por seus meteoros rápidos e brilhantes.</details>
+            <observation>Melhor visualização após a meia-noite, em um local escuro e longe da poluição luminosa.</observation>
+            <visibility>Boa visibilidade em todo o Brasil, especialmente em áreas escuras e com pouca poluição luminosa.</visibility>
+            <photography>Use uma câmera com lente grande angular e faça exposições longas para capturar a trilha dos meteoros.</photography>
+            <category id="meteors"></category>
+        </evento>
+        <evento id="novembro-4">
+            <data>30 de Novembro</data>
+            <title>Mercúrio em máxima elongação a leste</title>
+            <details>Mercúrio estará visível no céu da manhã, afastado ao máximo do Sol. É uma boa oportunidade para observá-lo antes do nascer do Sol.</details>
+            <observation>Use binóculos ou um telescópio pequeno para melhor visualização, e observe pouco antes do nascer do Sol.</observation>
+            <visibility>Visível em todo o Brasil, com melhores condições em locais com horizonte claro e sem obstruções.</visibility>
+            <photography>Use uma lente de 50mm e ajuste a ISO para capturar Mercúrio antes do nascer do Sol.</photography>
+            <category id="planets"></category>
+        </evento>
+    </Novembro>
+
+    <Dezembro>
+        <evento id="dezembro-1">
+            <data>6 de Dezembro</data>
+            <title>Lua Nova</title>
+            <details>A Lua Nova ocorre quando a Lua está posicionada entre a Terra e o Sol, tornando-se invisível a partir da Terra.</details>
+            <observation>Ideal para observação de objetos celestes que são mais visíveis sem a luz da Lua.</observation>
+            <visibility>Boa visibilidade em todas as regiões do Brasil, especialmente em áreas com céu limpo.</visibility>
+            <photography>Use um telescópio ou binóculos para observar detalhes de outros objetos celestes sem a luz da Lua interferindo.</photography>
+            <category id="moon"></category>
+        </evento>
+        <evento id="dezembro-2">
+            <data>12 de Dezembro</data>
+            <title>Chuva de meteoros Geminidas (pico)</title>
+            <details>As Geminidas têm uma taxa de até 120 meteoros por hora. São conhecidas por seus meteoros lentos e muito brilhantes.</details>
+            <observation>Melhor visualização após a meia-noite, em um local escuro e longe da poluição luminosa.</observation>
+            <visibility>Excelente visibilidade em todo o Brasil, especialmente em áreas com pouca poluição luminosa.</visibility>
+            <photography>Use uma lente grande angular e faça exposições longas para capturar a atividade intensa da chuva de meteoros.</photography>
+            <category id="meteors"></category>
+        </evento>
+        <evento id="dezembro-3">
+            <data>19 de Dezembro</data>
+            <title>Mercúrio em máxima elongação a oeste</title>
+            <details>Mercúrio estará visível no céu da tarde, afastado ao máximo do Sol. É uma boa oportunidade para observá-lo após o pôr do Sol.</details>
+            <observation>Use binóculos ou um telescópio pequeno para melhor visualização, e observe logo após o pôr do Sol.</observation>
+            <visibility>Visível em todo o Brasil, com melhores condições em locais com horizonte claro e desobstruído.</visibility>
+            <photography>Use uma lente de 50mm e ajuste a ISO para capturar Mercúrio ao entardecer.</photography>
+            <category id="planets"></category>
+        </evento>
+        <evento id="dezembro-4">
+            <data>22 de Dezembro</data>
+            <title>Solstício de Dezembro</title>
+            <details>O Solstício de Dezembro marca o início do inverno no Hemisfério Norte, com o dia mais curto e a noite mais longa do ano.</details>
+            <observation>Aproveite para observar as estrelas que se tornam mais visíveis durante as noites mais longas.</observation>
+            <visibility>Visível em todo o Brasil, especialmente em áreas com céu limpo durante a noite.</visibility>
+            <photography>Use uma lente grande angular para capturar o céu noturno com suas estrelas visíveis.</photography>
+            <category id="all"></category>
+        </evento>
+        <evento id="dezembro-5">
+            <data>26 de Dezembro</data>
+            <title>Lua Cheia</title>
+            <details>A Lua Cheia ocorre quando a Lua está oposta ao Sol, iluminando completamente a superfície visível da Lua.</details>
+            <observation>Ideal para observação de crateras e mares lunares com o auxílio de um telescópio.</observation>
+            <visibility>Visível em todo o Brasil. A Lua Cheia é particularmente impressionante em locais com pouca poluição luminosa.</visibility>
+            <photography>Utilize binóculos ou um telescópio para capturar detalhes da superfície lunar. Configure a ISO para 100-400 e use uma lente de 50mm a 100mm com abertura de f/8.</photography>
+            <category id="moon"></category>
+        </evento>
+    </Dezembro>
+
+</eventos>
