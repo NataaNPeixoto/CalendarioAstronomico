@@ -8,7 +8,6 @@ Um site interativo para explorar eventos astronômicos ao longo do ano. Ideal pa
 - **Favoritar Eventos**: Marque seus eventos favoritos com um simples clique e tenha suas preferências salvas no `localStorage`, para acessá-las posteriormente.
 - **Detalhes dos Eventos**: Cada evento contém informações detalhadas, como data, descrição, taxa de meteoros, dicas para visualização e muito mais.
 - **Design Responsivo**: O layout é adaptável, garantindo uma boa experiência de uso tanto em computadores quanto em dispositivos móveis.
-- **Modo Claro e Escuro**: O site possui um tema escuro por padrão, com a opção de alternar para um tema claro, proporcionando uma experiência visualmente confortável para todos os usuários.
 
 ## Estrutura do Projeto
 
