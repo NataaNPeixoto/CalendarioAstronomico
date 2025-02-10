@@ -247,6 +247,8 @@ li .star.favorito {
   flex-direction: column;
   background-color: var(--background-color2);
   border-bottom: 7px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
   padding: 1.5rem;
   font-family: "Montserrat", sans-serif;
   font-size: 1rem;
