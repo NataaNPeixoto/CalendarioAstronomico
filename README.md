@@ -1,40 +1,58 @@
 # Calendário Astronômico 🌌
 
-Um site interativo para explorar eventos astronômicos ao longo do ano. Ideal para entusiastas de astronomia e curiosos que desejam acompanhar os fenômenos mais impressionantes do céu noturno. Com este calendário, você poderá se manter informado sobre eventos como chuvas de meteoros, eclipses e outros fenômenos celestes.
+Aplicação web interativa que exibe os principais eventos astronômicos de 2025 com filtros por categoria e sistema de favoritos. Desenvolvido para entusiastas de astronomia acompanharem fenômenos celestes importantes.
 
-## Funcionalidades Principais
+### Estrutura do Projeto
+O projeto está organizado da seguinte forma:
 
-- **Lista de Eventos Astronômicos**: Explore eventos astronômicos organizados por mês, com detalhes completos sobre cada fenômeno.
-- **Favoritar Eventos**: Marque seus eventos favoritos com um simples clique e tenha suas preferências salvas no `localStorage`, para acessá-las posteriormente.
-- **Detalhes dos Eventos**: Cada evento contém informações detalhadas, como data, descrição, taxa de meteoros, dicas para visualização e muito mais.
-- **Design Responsivo**: O layout é adaptável, garantindo uma boa experiência de uso tanto em computadores quanto em dispositivos móveis.
+* **index.html**: Estrutura principal da página
+* **styles.css**: Estilos visuais com design moderno e temas escuro/light
+* **scripts.js**: Lógica de interatividade e manipulação de dados
+* **xml/dados.xml**: Base de dados com todos os eventos astronômicos
+* **favicon_io/**: Ícones personalizados para múltiplos dispositivos
 
-## Estrutura do Projeto
+### Funcionalidades Principais
 
-Este projeto está organizado da seguinte forma:
+* **Visualização de Eventos por Mês**
+  * Layout organizado mensalmente com gradientes espaciais
+  * Ícones categorizados (meteoros, planetas, lua)
 
-- **HTML**
-  - `index.html`: Página principal do site, que contém a estrutura básica do calendário e da interface de usuário.
-- **CSS**
-  - `css/styles.css`: Arquivo responsável pela estilização do layout, cores, fontes e pela responsividade do site.
-- **JavaScript**
-  - `js/scripts.js`: Lógica de interação, incluindo a funcionalidade de favoritar eventos, alternar o tema e carregar os eventos a partir do arquivo XML.
-- **XML**
-  - `xml/events.xml`: Arquivo de dados que contém as informações sobre os eventos astronômicos, como datas, descrições e dicas.
+* **Sistema de Filtros Dinâmicos**
+  * Filtragem por categorias: Chuvas de meteoros, planetas, eventos lunares
+  * Seção especial para eventos favoritos
+  * Animação suave nas transições
 
-## Como Utilizar
+* **Detalhes Interativos**
+  * Modal com informações expandidas:
+    - Dicas de observação
+    - Visibilidade por região
+    - Técnicas de fotografia astronômica
+    - Curiosidades científicas
 
-Para começar a usar o projeto, siga uma das opções abaixo:
+* **Personalização de UI**
+  * Sistema de favoritos com armazenamento local
+  * Efeitos hover com destaque espacial
+  * Design responsivo para mobile/desktop
+  * Animações de entrada e transições suaves
 
-### Opção 1: Abrir Localmente
+* **Recursos Especiais**
+  * Temporizador automático para próximos eventos
+  * Gradientes dinâmicos simulando o céu noturno
+  * Tipografia temática com efeitos especiais
+  * Otimização para baixa luminosidade (modo observação)
 
-Clone o repositório com '`git clone https://github.com/NataaNPeixoto/CalendarioAstronomico.git`' e abra o arquivo `index.html` diretamente no seu navegador para visualizar o site.
+### Tecnologias Utilizadas
+* **Dados**: XML estruturado com eventos astronômicos reais
+* **Design**: Gradientes CSS3 e variáveis personalizadas
+* **Interatividade**: Web Storage API para favoritos
+* **Dependências**: Font Awesome, Google Fonts, Material Icons
 
-### Opção 2: Usar um Servidor Local
+### Instruções de Uso
+1. Clone o repositório ou faça download dos arquivos
+2. Certifique-se que a pasta `xml` está no diretório correto
+3. Abra o arquivo `index.html` em qualquer navegador moderno
+4. Explore os eventos usando os filtros superiores
+5. Clique em qualquer evento para detalhes completos
+6. Use estrelas (☆) para marcar seus favoritos
 
-Se você preferir trabalhar em um servidor local, use ferramentas como **Live Server** no Visual Studio Code. Para fazer isso, siga os passos abaixo:
-
-1. Abra o projeto no VS Code.
-2. Clique com o botão direito no arquivo `index.html` e selecione "Open with Live Server".
-3. Acesse o site no endereço fornecido pelo servidor local.
-
+**Dica:** Os favoritos são armazenados localmente no navegador!
